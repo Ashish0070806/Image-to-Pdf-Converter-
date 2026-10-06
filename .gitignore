@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Generated output PDF
+output.pdf
+*.pdf
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
